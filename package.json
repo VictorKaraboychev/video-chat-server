@@ -1,0 +1,18 @@
+{
+    "name": "video-chat-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/main.ts",
+    "scripts": {
+        "dev": "ts-node src/main.ts"
+    },
+    "author": "Victor Karaboychev",
+    "license": "MIT",
+    "dependencies": {
+        "socket.io": "^4.4.0"
+    },
+    "devDependencies": {
+        "ts-node": "^10.4.0",
+        "typescript": "^4.5.4"
+    }
+}
